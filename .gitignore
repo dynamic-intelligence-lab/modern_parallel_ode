@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.lake/
+*.egg-info/
+/build/
+/data/
+/logs/
+/.venv/
+/wandb/
+
+# What the commands of the repository write. The result files and figures that ship with it are tracked; a figure
+# command that redraws one shows it as modified, and `git checkout -- <file>` restores it.
+# make smoke, the check folders (where the run commands write by default), the links to the ELCD records and models
+/results/smoke/
+/results/*/check/
+/results/elcd/records
+/results/elcd/panel_a_models
+# the executed notebooks, the PNG and SVG copies of the figures, the parts of the ELCD figure
+/figs/notebooks/
+/figs/**/*.png
+/figs/**/*.svg
+/figs/elcd/paper_*
+# the first figure: its outputs besides the tracked PDF, the Matplotlib cache, the validation record
+/experiments/fig1/output/
+/experiments/fig1/.cache/
+/experiments/fig1/data/validation.json

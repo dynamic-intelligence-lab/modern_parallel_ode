@@ -1,0 +1,4 @@
+--system chain8z --dtype fp64 --seed 10 --solvers scale-elk:0.1 --time-only 2000 --save-at 2000 --eval-every 0 --loop-time 0 --cell-tag _g0.1 --recdir results/elcd/records/tune
+--system chain8z --dtype fp64 --seed 11 --solvers scale-elk:0.1 --time-only 2000 --save-at 2000 --eval-every 0 --loop-time 0 --cell-tag _g0.1 --recdir results/elcd/records/tune
+--system chain8z --dtype fp32 --seed 10 --solvers scale-elk:0.1 --time-only 2000 --save-at 2000 --eval-every 0 --loop-time 0 --cell-tag _g0.1 --recdir results/elcd/records/tune
+--system chain8z --dtype fp32 --seed 11 --solvers scale-elk:0.1 --time-only 2000 --save-at 2000 --eval-every 0 --loop-time 0 --cell-tag _g0.1 --recdir results/elcd/records/tune

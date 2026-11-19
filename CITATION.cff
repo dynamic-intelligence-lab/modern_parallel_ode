@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "If you use this code or the Lean proofs, please cite the paper below."
+title: "Towards a Modern Theory of Time Parallelization for Nonlinear ODEs: code and Lean proofs"
+type: software
+authors:
+  - given-names: Zhouyang
+    family-names: Lu
+  - given-names: Arvind R.
+    family-names: Venkatakrishnan
+  - given-names: Emmie
+    family-names: Fitz-Gibbon
+  - given-names: Xavier
+    family-names: Gonzalez
+  - given-names: Yu
+    family-names: Kawano
+  - given-names: Ian R.
+    family-names: Manchester
+  - given-names: Eduardo D.
+    family-names: Sontag
+  - given-names: Jean-Jacques
+    family-names: Slotine
+  - given-names: Francesco
+    family-names: Bullo
+  - given-names: Leo
+    family-names: Kozachkov
+license: BSD-3-Clause
+preferred-citation:
+  type: generic
+  title: "Towards a Modern Theory of Time Parallelization for Nonlinear ODEs"
+  authors:
+    - given-names: Zhouyang
+      family-names: Lu
+    - given-names: Arvind R.
+      family-names: Venkatakrishnan
+    - given-names: Emmie
+      family-names: Fitz-Gibbon
+    - given-names: Xavier
+      family-names: Gonzalez
+    - given-names: Yu
+      family-names: Kawano
+    - given-names: Ian R.
+      family-names: Manchester
+    - given-names: Eduardo D.
+      family-names: Sontag
+    - given-names: Jean-Jacques
+      family-names: Slotine
+    - given-names: Francesco
+      family-names: Bullo
+    - given-names: Leo
+      family-names: Kozachkov
+  year: 2026
+  notes: "Preprint"

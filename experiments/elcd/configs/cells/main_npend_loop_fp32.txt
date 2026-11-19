@@ -1,0 +1,1 @@
+--system npend:8-N5000 --dtype fp32 --seed 0 --solvers= --loop-time 0 --full-loop --cell-tag _loop --recdir results/elcd/records/main --loop-chunk 192

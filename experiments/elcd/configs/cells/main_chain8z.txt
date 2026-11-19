@@ -1,0 +1,20 @@
+--system chain8z --dtype fp64 --seed 0 --solvers deer,scale-elk:0.01,scale-elk:0.03 --save-at 6000 --recdir results/elcd/records/main --full-loop --par-chunk 2
+--system chain8z --dtype fp64 --seed 1 --solvers deer,scale-elk:0.01,scale-elk:0.03 --save-at 6000 --recdir results/elcd/records/main --full-loop --par-chunk 2
+--system chain8z --dtype fp64 --seed 2 --solvers deer,scale-elk:0.01,scale-elk:0.03 --save-at 6000 --recdir results/elcd/records/main --full-loop --par-chunk 2
+--system chain8z --dtype fp64 --seed 3 --solvers deer,scale-elk:0.01,scale-elk:0.03 --save-at 6000 --recdir results/elcd/records/main --par-chunk 2
+--system chain8z --dtype fp64 --seed 4 --solvers deer,scale-elk:0.01,scale-elk:0.03 --save-at 6000 --recdir results/elcd/records/main --par-chunk 2
+--system chain8z --dtype fp64 --seed 5 --solvers deer,scale-elk:0.01,scale-elk:0.03 --save-at 6000 --recdir results/elcd/records/main --par-chunk 2
+--system chain8z --dtype fp64 --seed 6 --solvers deer,scale-elk:0.01,scale-elk:0.03 --save-at 6000 --recdir results/elcd/records/main --par-chunk 2
+--system chain8z --dtype fp64 --seed 7 --solvers deer,scale-elk:0.01,scale-elk:0.03 --save-at 6000 --recdir results/elcd/records/main --par-chunk 2
+--system chain8z --dtype fp64 --seed 8 --solvers deer,scale-elk:0.01,scale-elk:0.03 --save-at 6000 --recdir results/elcd/records/main --par-chunk 2
+--system chain8z --dtype fp64 --seed 9 --solvers deer,scale-elk:0.01,scale-elk:0.03 --save-at 6000 --recdir results/elcd/records/main --par-chunk 2
+--system chain8z --dtype fp32 --seed 0 --solvers deer,scale-elk:0.01,scale-elk:0.03 --save-at 6000 --recdir results/elcd/records/main --full-loop --par-chunk 32
+--system chain8z --dtype fp32 --seed 1 --solvers deer,scale-elk:0.01,scale-elk:0.03 --save-at 6000 --recdir results/elcd/records/main --full-loop --par-chunk 32
+--system chain8z --dtype fp32 --seed 2 --solvers deer,scale-elk:0.01,scale-elk:0.03 --save-at 6000 --recdir results/elcd/records/main --full-loop --par-chunk 32
+--system chain8z --dtype fp32 --seed 3 --solvers deer,scale-elk:0.01,scale-elk:0.03 --save-at 6000 --recdir results/elcd/records/main --par-chunk 32
+--system chain8z --dtype fp32 --seed 4 --solvers deer,scale-elk:0.01,scale-elk:0.03 --save-at 6000 --recdir results/elcd/records/main --par-chunk 32
+--system chain8z --dtype fp32 --seed 5 --solvers deer,scale-elk:0.01,scale-elk:0.03 --save-at 6000 --recdir results/elcd/records/main --par-chunk 32
+--system chain8z --dtype fp32 --seed 6 --solvers deer,scale-elk:0.01,scale-elk:0.03 --save-at 6000 --recdir results/elcd/records/main --par-chunk 32
+--system chain8z --dtype fp32 --seed 7 --solvers deer,scale-elk:0.01,scale-elk:0.03 --save-at 6000 --recdir results/elcd/records/main --par-chunk 32
+--system chain8z --dtype fp32 --seed 8 --solvers deer,scale-elk:0.01,scale-elk:0.03 --save-at 6000 --recdir results/elcd/records/main --par-chunk 32
+--system chain8z --dtype fp32 --seed 9 --solvers deer,scale-elk:0.01,scale-elk:0.03 --save-at 6000 --recdir results/elcd/records/main --par-chunk 32

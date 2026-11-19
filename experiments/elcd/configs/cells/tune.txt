@@ -1,0 +1,8 @@
+--system chain8z --dtype fp64 --seed 10 --solvers scale-elk:0.3,scale-elk:1,scale-elk:3 --time-only 2000 --save-at 2000 --eval-every 0 --loop-time 0 --recdir results/elcd/records/tune
+--system chain8z --dtype fp64 --seed 11 --solvers scale-elk:0.3,scale-elk:1,scale-elk:3 --time-only 2000 --save-at 2000 --eval-every 0 --loop-time 0 --recdir results/elcd/records/tune
+--system chain8z --dtype fp32 --seed 10 --solvers scale-elk:0.3,scale-elk:1,scale-elk:3 --time-only 2000 --save-at 2000 --eval-every 0 --loop-time 0 --recdir results/elcd/records/tune
+--system chain8z --dtype fp32 --seed 11 --solvers scale-elk:0.3,scale-elk:1,scale-elk:3 --time-only 2000 --save-at 2000 --eval-every 0 --loop-time 0 --recdir results/elcd/records/tune
+--system npend:8-N5000 --dtype fp64 --seed 10 --solvers scale-elk:0.3,scale-elk:1,scale-elk:3 --time-only 2000 --save-at 2000 --eval-every 0 --loop-time 0 --recdir results/elcd/records/tune
+--system npend:8-N5000 --dtype fp64 --seed 11 --solvers scale-elk:0.3,scale-elk:1,scale-elk:3 --time-only 2000 --save-at 2000 --eval-every 0 --loop-time 0 --recdir results/elcd/records/tune
+--system npend:8-N5000 --dtype fp32 --seed 10 --solvers scale-elk:0.3,scale-elk:1,scale-elk:3 --time-only 2000 --save-at 2000 --eval-every 0 --loop-time 0 --recdir results/elcd/records/tune
+--system npend:8-N5000 --dtype fp32 --seed 11 --solvers scale-elk:0.3,scale-elk:1,scale-elk:3 --time-only 2000 --save-at 2000 --eval-every 0 --loop-time 0 --recdir results/elcd/records/tune

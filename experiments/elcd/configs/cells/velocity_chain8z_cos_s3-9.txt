@@ -1,0 +1,7 @@
+--system chain8z --dtype fp32 --seed 3 --loss vel --batch 100 --epochs 1000 --eval-every 100 --lr-schedule cosine --out results/elcd/records/velocity/chain8z/fp32/s3/vel-cos1000.json
+--system chain8z --dtype fp32 --seed 4 --loss vel --batch 100 --epochs 1000 --eval-every 100 --lr-schedule cosine --out results/elcd/records/velocity/chain8z/fp32/s4/vel-cos1000.json
+--system chain8z --dtype fp32 --seed 5 --loss vel --batch 100 --epochs 1000 --eval-every 100 --lr-schedule cosine --out results/elcd/records/velocity/chain8z/fp32/s5/vel-cos1000.json
+--system chain8z --dtype fp32 --seed 6 --loss vel --batch 100 --epochs 1000 --eval-every 100 --lr-schedule cosine --out results/elcd/records/velocity/chain8z/fp32/s6/vel-cos1000.json
+--system chain8z --dtype fp32 --seed 7 --loss vel --batch 100 --epochs 1000 --eval-every 100 --lr-schedule cosine --out results/elcd/records/velocity/chain8z/fp32/s7/vel-cos1000.json
+--system chain8z --dtype fp32 --seed 8 --loss vel --batch 100 --epochs 1000 --eval-every 100 --lr-schedule cosine --out results/elcd/records/velocity/chain8z/fp32/s8/vel-cos1000.json
+--system chain8z --dtype fp32 --seed 9 --loss vel --batch 100 --epochs 1000 --eval-every 100 --lr-schedule cosine --out results/elcd/records/velocity/chain8z/fp32/s9/vel-cos1000.json

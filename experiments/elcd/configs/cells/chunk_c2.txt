@@ -1,0 +1,1 @@
+--system chain8z --dtype fp64 --seed 0 --solvers deer,laser --time-only 500 --loop-time 0 --par-chunk 2 --no-probes --recdir results/elcd/records/pilot_c2

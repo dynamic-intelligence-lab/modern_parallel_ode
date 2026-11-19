@@ -1,0 +1,5 @@
+1000 scale-elk:0.15,scale-elk:0.2,scale-elk:0.3,scale-elk:0.5
+3000 scale-elk:0.055,scale-elk:0.06,scale-elk:0.07,scale-elk:0.08,scale-elk:0.1,scale-elk:0.15,scale-elk:0.2,scale-elk:0.3,scale-elk:0.5
+10000 scale-elk:0.053,scale-elk:0.055,scale-elk:0.06,scale-elk:0.07,scale-elk:0.08,scale-elk:0.1,scale-elk:0.15,scale-elk:0.2,scale-elk:0.3,scale-elk:0.5
+30000 scale-elk:0.053,scale-elk:0.055,scale-elk:0.06,scale-elk:0.07,scale-elk:0.08,scale-elk:0.1,scale-elk:0.15,scale-elk:0.2,scale-elk:0.3,scale-elk:0.5
+100000 scale-elk:0.053,scale-elk:0.055,scale-elk:0.06,scale-elk:0.07,scale-elk:0.08,scale-elk:0.1,scale-elk:0.15,scale-elk:0.2,scale-elk:0.3,scale-elk:0.5

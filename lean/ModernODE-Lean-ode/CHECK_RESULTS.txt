@@ -1,0 +1,22 @@
+Verification run 2026-11-08 (Lean 4.24.0, mathlib f897ebc), from this directory:
+  LEAN_NUM_THREADS=1 lake build && lake env lean Audit.lean
+
+Build completed successfully (7377 jobs).
+PASS: audited 359 project theorem declarations; only propext, Classical.choice, and Quot.sound are permitted.
+'ModernODE.theorem1' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ModernODE.theorem2' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ModernODE.theorem1_ode' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ModernODE.exists_isTransition' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ModernODE.isTransition_unique' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ModernODE.exists_finite_slope' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ModernODE.theorem1_ode'' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ModernODE.theorem1_negField' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ModernODE.isTransition_comp' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ModernODE.exists_adjoint_solution' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ModernODE.exists_forced_family' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ModernODE.exists_adjoint_family' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ModernODE.theorem2_ode' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ModernODE.theorem2_posField' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ModernODE.C1Field.ofContDiff' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ModernODE.optimalPL_tendsto_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ModernODE.posField_optimalPL_tendsto_zero' depends on axioms: [propext, Classical.choice, Quot.sound]

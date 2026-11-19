@@ -1,0 +1,14 @@
+--system chain8z --dtype fp32 --seed 3 --solvers= --loop-time 0 --full-loop --cell-tag _loop --recdir results/elcd/records/main
+--system chain8z --dtype fp32 --seed 4 --solvers= --loop-time 0 --full-loop --cell-tag _loop --recdir results/elcd/records/main
+--system chain8z --dtype fp32 --seed 5 --solvers= --loop-time 0 --full-loop --cell-tag _loop --recdir results/elcd/records/main
+--system chain8z --dtype fp32 --seed 6 --solvers= --loop-time 0 --full-loop --cell-tag _loop --recdir results/elcd/records/main
+--system chain8z --dtype fp32 --seed 7 --solvers= --loop-time 0 --full-loop --cell-tag _loop --recdir results/elcd/records/main
+--system chain8z --dtype fp32 --seed 8 --solvers= --loop-time 0 --full-loop --cell-tag _loop --recdir results/elcd/records/main
+--system chain8z --dtype fp32 --seed 9 --solvers= --loop-time 0 --full-loop --cell-tag _loop --recdir results/elcd/records/main
+--system chain8z --dtype fp64 --seed 3 --solvers= --loop-time 0 --full-loop --cell-tag _loop --recdir results/elcd/records/main
+--system chain8z --dtype fp64 --seed 4 --solvers= --loop-time 0 --full-loop --cell-tag _loop --recdir results/elcd/records/main
+--system chain8z --dtype fp64 --seed 5 --solvers= --loop-time 0 --full-loop --cell-tag _loop --recdir results/elcd/records/main
+--system chain8z --dtype fp64 --seed 6 --solvers= --loop-time 0 --full-loop --cell-tag _loop --recdir results/elcd/records/main
+--system chain8z --dtype fp64 --seed 7 --solvers= --loop-time 0 --full-loop --cell-tag _loop --recdir results/elcd/records/main
+--system chain8z --dtype fp64 --seed 8 --solvers= --loop-time 0 --full-loop --cell-tag _loop --recdir results/elcd/records/main
+--system chain8z --dtype fp64 --seed 9 --solvers= --loop-time 0 --full-loop --cell-tag _loop --recdir results/elcd/records/main

@@ -1,0 +1,14 @@
+{
+  "review_date": "2026-11-08",
+  "scope": "Theorems 1 and 2 for the IVP (theorem1_ode', theorem2_ode). See STATUS.md.",
+  "note": "The SHA-256 hashes below refer to the LaTeX sources of the paper as they were at the review date; the Lean statements were compared with these versions. Each key is the file name of one LaTeX source file.",
+  "sources": {
+    "main.tex": "db584279b56773bc858ed001df5fe31c60b1a689208a61b514532a9015e0b678",
+    "03_problem_statement.tex": "0711d7cc4b4135e3cccf4cc55df50c0a04e0484718f7b47cff266ee8c9655b01",
+    "04_results.tex": "21437344d2f1b207c700e1476079ac4f033be4ec17b8f9934d693e3e34e7176b",
+    "stable_pl.tex": "d16847a6dca8689f821db717f0e6c0db07352a8acdc28095c86a2a610ea22346",
+    "unstable_pl.tex": "736b492f18f7a4b2262ceb4fd4953c313d56deb0c1960123062de1a337633cdb",
+    "a_continuous_time_pl_proof.tex": "14cf4e3e8eee4657e690284f8525a4b0ca093b7aec0eba0ca64461a6c81e7676",
+    "unstable_pl_proof.tex": "1357c9970f6ce69c13a308f916dc3889f8cd7d519a3e956a3aebdf941fbe3e49"
+  }
+}

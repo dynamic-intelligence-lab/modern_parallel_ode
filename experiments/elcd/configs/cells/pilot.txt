@@ -1,0 +1,12 @@
+--system chain8z --dtype fp32 --seed 0 --solvers deer,laser --time-only 500 --loop-time 0 --recdir results/elcd/records/pilot
+--system chain8z --dtype fp64 --seed 0 --solvers deer,laser --time-only 500 --loop-time 0 --recdir results/elcd/records/pilot
+--system npend:8-N5000 --dtype fp32 --seed 0 --solvers deer,laser --time-only 200 --loop-time 0 --recdir results/elcd/records/pilot
+--system npend:8-N5000 --dtype fp64 --seed 0 --solvers deer,laser --time-only 200 --loop-time 0 --recdir results/elcd/records/pilot
+--system npend:8-N5000 --dtype fp32 --seed 0 --solvers deer,laser --time-only 200 --loop-time 0 --par-chunk 48 --no-probes --recdir results/elcd/records/pilot_c48
+--system npend:8-N5000 --dtype fp64 --seed 0 --solvers deer,laser --time-only 200 --loop-time 0 --par-chunk 32 --no-probes --recdir results/elcd/records/pilot_c32
+--system npend:8-N5000 --dtype fp64 --seed 0 --solvers= --loop-time 20 --no-probes --recdir results/elcd/records/pilot_loop_auto
+--system npend:8-N5000 --dtype fp64 --seed 0 --solvers= --loop-time 20 --loop-chunk 192 --no-probes --recdir results/elcd/records/pilot_loop_c192
+--system npend:8-N5000 --dtype fp64 --seed 0 --solvers= --loop-time 20 --loop-chunk 96 --no-probes --recdir results/elcd/records/pilot_loop_c96
+--system npend:8-N5000 --dtype fp32 --seed 0 --solvers= --loop-time 20 --no-probes --recdir results/elcd/records/pilot_loop_auto
+--system npend:8-N5000 --dtype fp32 --seed 0 --solvers= --loop-time 20 --loop-chunk 192 --no-probes --recdir results/elcd/records/pilot_loop_c192
+--system chain8z --dtype fp64 --seed 0 --solvers= --loop-time 20 --no-probes --recdir results/elcd/records/pilot_loop_auto

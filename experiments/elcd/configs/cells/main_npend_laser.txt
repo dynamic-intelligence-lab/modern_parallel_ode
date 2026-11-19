@@ -1,0 +1,6 @@
+--system npend:8-N5000 --dtype fp64 --seed 0 --solvers laser --save-at 6000 --recdir results/elcd/records/main --loop-chunk 192 --par-chunk 4 --loop-time 0 --cell-tag _laser
+--system npend:8-N5000 --dtype fp64 --seed 1 --solvers laser --save-at 6000 --recdir results/elcd/records/main --loop-chunk 192 --par-chunk 4 --loop-time 0 --cell-tag _laser
+--system npend:8-N5000 --dtype fp64 --seed 2 --solvers laser --save-at 6000 --recdir results/elcd/records/main --loop-chunk 192 --par-chunk 4 --loop-time 0 --cell-tag _laser
+--system npend:8-N5000 --dtype fp32 --seed 0 --solvers laser --save-at 6000 --recdir results/elcd/records/main --loop-chunk 192 --par-chunk 8 --loop-time 0 --cell-tag _laser
+--system npend:8-N5000 --dtype fp32 --seed 1 --solvers laser --save-at 6000 --recdir results/elcd/records/main --loop-chunk 192 --par-chunk 8 --loop-time 0 --cell-tag _laser
+--system npend:8-N5000 --dtype fp32 --seed 2 --solvers laser --save-at 6000 --recdir results/elcd/records/main --loop-chunk 192 --par-chunk 8 --loop-time 0 --cell-tag _laser

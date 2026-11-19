@@ -1,0 +1,8 @@
+--system chain8z --dtype fp32 --seed 0 --solvers deer,laser --time-only 500 --loop-time 0 --par-chunk 4 --no-probes --recdir results/elcd/records/pilot_c4
+--system chain8z --dtype fp32 --seed 0 --solvers deer,laser --time-only 500 --loop-time 0 --par-chunk 8 --no-probes --recdir results/elcd/records/pilot_c8
+--system chain8z --dtype fp32 --seed 0 --solvers deer,laser --time-only 500 --loop-time 0 --par-chunk 16 --no-probes --recdir results/elcd/records/pilot_c16
+--system chain8z --dtype fp32 --seed 0 --solvers deer,laser --time-only 500 --loop-time 0 --par-chunk 64 --no-probes --recdir results/elcd/records/pilot_c64
+--system chain8z --dtype fp64 --seed 0 --solvers deer,laser --time-only 500 --loop-time 0 --par-chunk 4 --no-probes --recdir results/elcd/records/pilot_c4
+--system chain8z --dtype fp64 --seed 0 --solvers deer,laser --time-only 500 --loop-time 0 --par-chunk 8 --no-probes --recdir results/elcd/records/pilot_c8
+--system chain8z --dtype fp64 --seed 0 --solvers deer,laser --time-only 500 --loop-time 0 --par-chunk 16 --no-probes --recdir results/elcd/records/pilot_c16
+--system chain8z --dtype fp64 --seed 0 --solvers deer,laser --time-only 500 --loop-time 0 --par-chunk 64 --no-probes --recdir results/elcd/records/pilot_c64

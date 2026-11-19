@@ -1,0 +1,2 @@
+--system chain8z --dtype fp32 --seed 0 --solvers elk:1,elk:100,elk:10000 --time-only 200 --loop-time 0 --no-probes --recdir results/elcd/records/elk_time
+--system chain8z --dtype fp64 --seed 0 --solvers elk:1,elk:100,elk:10000 --time-only 200 --loop-time 0 --no-probes --recdir results/elcd/records/elk_time

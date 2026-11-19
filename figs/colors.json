@@ -1,0 +1,18 @@
+{
+  "_about": "Colors shared by the paper figures. Edit a hex code, then redraw the figures that read this file: the notebooks experiments/lorenz/figure_bistable.ipynb and experiments/elcd/figures/figure_elcd.ipynb (built by build_figure_bistable_notebook.py and build_figure_elcd_notebook.py) and the scripts experiments/lorenz/figure_tuning.py, experiments/lorenz/figure_residual.py and experiments/elcd/figures/figure_appendix.py.",
+  "methods": {
+    "seq": "#52514E",
+    "DEER": "#B3392B",
+    "scale-ELK": "#B07A16",
+    "ELK": "#8A969C",
+    "LASER": "#0F6E73"
+  },
+  "losses": {
+    "multi-start rollout loss": "#0F6E73",
+    "velocity loss": "#3B5BA5"
+  },
+  "neutral": {
+    "text": "#1A2226",
+    "demonstration": "#BDBBB6"
+  }
+}

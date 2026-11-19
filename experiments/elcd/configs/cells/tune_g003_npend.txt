@@ -1,0 +1,2 @@
+--system npend:8-N5000 --dtype fp64 --seed 10 --solvers scale-elk:0.03 --time-only 2000 --save-at 2000 --eval-every 0 --loop-time 0 --cell-tag _g0.03 --recdir results/elcd/records/tune
+--system npend:8-N5000 --dtype fp64 --seed 11 --solvers scale-elk:0.03 --time-only 2000 --save-at 2000 --eval-every 0 --loop-time 0 --cell-tag _g0.03 --recdir results/elcd/records/tune

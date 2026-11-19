@@ -1,0 +1,5 @@
+--system chain8z --dtype fp64 --seed 0 --solvers deer,laser --time-only 500 --loop-time 0 --par-chunk 1 --no-probes --recdir results/elcd/records/pilot_c1
+--system chain8z --dtype fp64 --seed 10 --solvers scale-elk:0.01 --time-only 2000 --save-at 2000 --eval-every 0 --loop-time 0 --cell-tag _g0.01 --recdir results/elcd/records/tune
+--system chain8z --dtype fp64 --seed 11 --solvers scale-elk:0.01 --time-only 2000 --save-at 2000 --eval-every 0 --loop-time 0 --cell-tag _g0.01 --recdir results/elcd/records/tune
+--system chain8z --dtype fp32 --seed 10 --solvers scale-elk:0.01 --time-only 2000 --save-at 2000 --eval-every 0 --loop-time 0 --cell-tag _g0.01 --recdir results/elcd/records/tune
+--system chain8z --dtype fp32 --seed 11 --solvers scale-elk:0.01 --time-only 2000 --save-at 2000 --eval-every 0 --loop-time 0 --cell-tag _g0.01 --recdir results/elcd/records/tune

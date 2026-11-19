@@ -1,0 +1,3 @@
+--system pend:8 --dtype fp64 --seed 0 --solvers deer,laser --loop-time 200 --loop-chunk 192 --cell-tag _loop192 --recdir results/elcd/records/appendix
+--system pend:8 --dtype fp64 --seed 1 --solvers deer,laser --loop-time 200 --loop-chunk 192 --cell-tag _loop192 --recdir results/elcd/records/appendix
+--system pend:8 --dtype fp64 --seed 2 --solvers deer,laser --loop-time 200 --loop-chunk 192 --cell-tag _loop192 --recdir results/elcd/records/appendix

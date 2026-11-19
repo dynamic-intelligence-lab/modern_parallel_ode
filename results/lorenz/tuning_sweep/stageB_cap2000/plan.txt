@@ -1,0 +1,5 @@
+1000 elk:1,elk:3,elk:10,elk:30
+3000 elk:1,elk:3,elk:10,elk:30,elk:100,elk:300
+10000 elk:1,elk:3,elk:10,elk:30,elk:100,elk:300,elk:1000,elk:3000,elk:10000
+30000 elk:1,elk:3,elk:10,elk:30,elk:100,elk:300,elk:1000,elk:3000,elk:10000,elk:30000
+100000 elk:1,elk:3,elk:10,elk:30,elk:100,elk:300,elk:1000,elk:3000,elk:10000,elk:30000
