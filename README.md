@@ -4,7 +4,8 @@ Code and Lean proofs for the paper
 
 > **Towards a Modern Theory of Time Parallelization for Nonlinear ODEs**<br>
 > Zhouyang Lu, Arvind R. Venkatakrishnan, Emmie Fitz-Gibbon, Xavier Gonzalez, Yu Kawano, Ian R. Manchester,
-> Eduardo D. Sontag, Jean-Jacques Slotine, Francesco Bullo, Leo Kozachkov
+> Eduardo D. Sontag, Jean-Jacques Slotine, Francesco Bullo, Leo Kozachkov<br>
+> [Paper (PDF)](paper.pdf)
 
 An ODE is usually solved one time step after another. It can also be solved for all time steps at once, as an
 optimization problem over whole trajectories, which a GPU handles in parallel. The paper shows when this is easy:
@@ -96,6 +97,7 @@ gradients), and [`docs/solvers.md`](docs/solvers.md) describes every argument.
 parode/                  the solver library: DEER, LASER, ELK, quasi-DEER, the implicit adjoint
 quickstart.py            DEER and LASER on the bistable Lorenz system
 quickstart.ipynb         the same as a notebook, with pictures
+paper.pdf                the paper
 examples/own_ode.py      a template for an ODE of your own
 experiments/
   lorenz/                bistable Lorenz from a guess on the saddle
